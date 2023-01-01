@@ -11,7 +11,7 @@
 <ul>
   <li><p><strong>You can download persian musics with this app and enjoy listening.<strong><p></li>
   <li><p><b>Working with Python v3</b><p></li>
-  <li><p><b>This app donwload musics from an specified serve.</b><p></li>
+  <li><p><b>This app donwload musics from an specified server.</b><p></li>
   <li><p><b>Note: we use <q>dl.music-fa.com</q> to download musics.</b><p></li>
 </ul>
 <h1>⚓️ Installition:<h1>
